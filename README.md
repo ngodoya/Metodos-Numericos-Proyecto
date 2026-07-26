@@ -15,8 +15,7 @@ El objetivo es analizar experimentalmente el trade-off clásico de la optimizaci
 
 ---
 
-## Estructura del Repositorio
-
+```text
 Metodos-Numericos-Proyecto/
 ├── src/
 │   ├── models/
@@ -29,8 +28,7 @@ Metodos-Numericos-Proyecto/
 │   └── benchmarking.ipynb          # Cuaderno interactivo con experimentos y gráficas
 ├── requirements.txt                # Dependencias del proyecto
 └── README.md                       # Documentación del proyecto
-
----
+```
 
 ## Resumen de Resultados
 
